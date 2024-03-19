@@ -39,6 +39,7 @@ image = Image.open('C:/Users/Ankit/Desktop/wine/wine_project/wine_image.png')
 
 # Set title and image
 st.title('Wine Quality Prediction Random forest')
+st.write("Ankit kumar (23D1604) ")
 st.image(image, caption='wine Quality', use_column_width=True)
 
 # Select wine type
